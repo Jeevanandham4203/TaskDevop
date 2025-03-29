@@ -10,7 +10,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 @Entity
-@Table(name = "taskdevop")
+@Table(name = "employee")
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
